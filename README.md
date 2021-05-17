@@ -11,6 +11,7 @@ App showing cases and country with drawer navigation
 ![image](https://user-images.githubusercontent.com/82022271/118532409-91766480-b764-11eb-9975-823903afca91.png)
 
 
-![image](https://user-images.githubusercontent.com/82022271/118532486-a5ba6180-b764-11eb-89a7-63cfdb5a6553.png)
+![image](https://user-images.githubusercontent.com/82022271/118533301-8a9c2180-b765-11eb-8557-2705610bf7b4.png)
+
 
 
