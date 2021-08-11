@@ -1,4 +1,4 @@
-# apitest
+# react-native drawer navigation
 App showing cases and country with drawer navigation 
 
 
